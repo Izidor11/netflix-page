@@ -2,7 +2,7 @@
 netflix-landingpage
 
 
-We've used the create-react-app tool to set up our environment. 
+I've used the create-react-app tool to set up our environment. 
 
 
 To run the code cd into each individual folder and run the following commands:
