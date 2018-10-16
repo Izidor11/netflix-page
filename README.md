@@ -15,4 +15,4 @@ compiles all of your files and boots up a dev server. Browse to localhost:3000 t
 
 Works well if you dont play with the size of the windows >D.
 
-![alt text](https://mega.nz/#!aO4UwYBY!zVFuqlKDzwUbg4m9PCo5x4NkXFnBNs5L60mTrcWzf5Y)
+![alt text](blob:https://mega.nz/e95121c0-9743-429f-8b47-eaede08f2773)
