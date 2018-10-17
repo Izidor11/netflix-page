@@ -3,11 +3,11 @@ netflix-landingpage
 
 I've used the create-react-app tool to set up our environment.
 
-To run the code cd into each individual folder and run the following commands:
+To run the code
 
 npm install
 
-will install all the libraries you'll need to get each Daily UI running.
+will install all the libraries you'll need
 
 npm start
 
